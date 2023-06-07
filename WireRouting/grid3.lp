@@ -1,0 +1,40 @@
+#const nrows=9.
+#const ncols=15.
+dim(9,15).
+#show dim/2.
+end(b,c(0,5)).
+end(a,c(1,0)).
+obs(1,11).
+obs(1,12).
+end(c,c(2,6)).
+obs(2,11).
+obs(2,12).
+obs(3,1).
+obs(3,2).
+obs(3,3).
+obs(3,4).
+obs(3,5).
+obs(3,6).
+obs(3,7).
+obs(3,11).
+obs(3,12).
+obs(3,13).
+obs(4,1).
+end(c,c(4,3)).
+end(d,c(4,12)).
+obs(5,3).
+obs(5,4).
+obs(5,5).
+obs(5,6).
+end(a,c(5,8)).
+obs(5,11).
+obs(5,12).
+obs(5,13).
+obs(6,3).
+end(b,c(6,4)).
+obs(6,11).
+obs(7,3).
+obs(7,9).
+obs(7,10).
+obs(7,11).
+end(d,c(8,9)).
